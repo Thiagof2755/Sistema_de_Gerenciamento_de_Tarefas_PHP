@@ -9,7 +9,7 @@ class EmployeeDAO extends ConnectionFactory {
         $sql = "SELECT id, name, email FROM employees WHERE email = :email AND password = :senha";
         $param = array(
             ":email" => $email,
-            ":senha" => $senha
+            ":senha" => $senha 
         );
         $resultado = $this->conn->executar($sql, $param);
         
