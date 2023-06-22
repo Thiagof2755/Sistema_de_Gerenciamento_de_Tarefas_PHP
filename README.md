@@ -1,5 +1,3 @@
-Claro! Aqui está um exemplo de README para o projeto:
-
 # Sistema de Gerenciamento de Tarefas
 
 Este é um projeto de um sistema de gerenciamento de tarefas desenvolvido em PHP. O sistema permite que os usuários realizem o login, visualizem suas tarefas, filtrem por status e editem tarefas existentes. Além disso, os usuários também podem criar novas tarefas.
@@ -42,4 +40,4 @@ Este é um projeto de um sistema de gerenciamento de tarefas desenvolvido em PHP
 
 ## Considerações finais
 
-Este projeto é um exemplo simples de um sistema de gerenciamento de tarefas em PHP. Fique à vontade para modificá-lo e aprimorá-lo de acordo com suas necessidades. Espero que seja útil como ponto de partida para o desenvolvimento de sistemas mais complex
+Este projeto é um exemplo simples de um sistema de gerenciamento de tarefas em PHP. Fique à vontade para modificá-lo e aprimorá-lo de acordo com suas necessidades. Espero que seja útil como ponto de partida para o desenvolvimento de sistemas mais complexo.
